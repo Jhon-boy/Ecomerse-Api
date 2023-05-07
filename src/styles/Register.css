@@ -1,0 +1,84 @@
+
+.Registro {
+    margin-left: 35%;
+    width: 30%;
+    height: auto;
+    margin-top: 4%; 
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-bottom: 10%;
+}
+.Registro input {
+    margin: 30px 10px 0px 10px;
+    padding-top: 10px;
+    background-color: rgba(246, 245, 245, 0.975);
+}
+.Registro select{
+    margin: 30px 10px 0px 10px;
+    margin-right: 20px;
+    padding-top: 10px;
+    background-color: rgba(246, 245, 245, 0.975);
+}
+.Registro .title{
+    margin-left: 20px;
+    color: black;
+}
+.Registro .subtitle{
+    margin-left: 20px;
+    color: gray;
+}
+
+.DatosP{
+    display: flex;
+}
+.Datos{
+    margin-right: 20px;
+}
+.btn {
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.btn .btnRegistar{
+    background-color: rgb(28, 186, 230);
+    color: black;
+    margin: 0 0 10px 0;
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 125px;
+    height: 40px;
+}
+.btn .btnRegistar:hover{
+    cursor: pointer;
+    background-color: rgb(26, 125, 150);
+}
+.btn .btnVolver{
+    border: none;
+    background-color: white;
+    border-bottom:  1px solid black;
+}
+.apellido{
+    margin-left: 30px;
+}
+#apellido{
+    margin-left: 35px;
+}
+.Update{
+    background-color: white;
+    margin-left: 30%;
+    width: 36%;
+    position: absolute;
+    height: 550px;
+    margin-top: 1%; 
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.titlesUser{
+    margin-left: 20px;
+    margin-top: 25px;
+    color: rgb(81, 80, 80);
+}
+.mainUser input{
+    margin-top: -5px;
+    margin-right: 10px;
+}
