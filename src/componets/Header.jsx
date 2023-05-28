@@ -51,7 +51,8 @@ export const Header = ({ usuario }) => {
 
 	return (
 		<>
-			<div className="area"></div><nav className="main-menu">
+			<div className="area"></div>
+			<nav className="main-menu">
 				<div>
 					<img className='logo' src='https://1000marcas.net/wp-content/uploads/2020/01/Nokia-Logo.png' alt='logo ' />
 				</div>
